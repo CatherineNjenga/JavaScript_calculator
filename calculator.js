@@ -11,7 +11,7 @@ if (answer == '+'){
     alert(`The result is ${result}.`);
 } else if (answer == '-') {
     result = numOne - numTwo;
-    alert('The result is ${result}.')
+    alert(`The result is ${result}.`)
 } else if (answer == '/') {
     result = numOne / numTwo;
     alert(`The result is ${result}.`)
